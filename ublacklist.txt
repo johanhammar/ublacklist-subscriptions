@@ -1,0 +1,7 @@
+# General tech- and education sites to block
+*://*.w3schools.com/*
+*://*.educba.com/*
+
+# Content farms, clones etc.
+*://*.gitmemory.com/*
+*://issueexplorer.com/*
